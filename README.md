@@ -23,7 +23,7 @@ yarn add --dev whatwg-fetch
   "test": "jest --watchAll"
 ```
 
-#si da problema babel.config.cjs
+# si da problema babel.config.cjs
 4. Crear la configuración de babel __babel.config.js__
 ```
 module.exports = {
@@ -33,7 +33,7 @@ module.exports = {
     ],
 };
 ```
-#si da problema jest.config.cjs
+# si da problema jest.config.cjs
 5. Opcional, pero eventualmente necesario, crear Jest config y setup:
 
 __jest.config.js__
